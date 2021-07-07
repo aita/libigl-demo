@@ -1,0 +1,6 @@
+[submodule "third_party/libigl"]
+	path = third_party/libigl
+	url = https://github.com/libigl/libigl.git
+[submodule "shared"]
+	path = shared
+	url = git@github.com:libigl/libigl-tutorial-data.git
